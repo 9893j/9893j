@@ -1,7 +1,8 @@
 ## Olá Pessoal sou o João  😊
 - ✨ESTUDANDO PROGRAMAÇÃO 
-- ✨APRENDENDO  PYTHON E JAVA
+- ✨APRENDENDO  PYTHON
 - ✨FUTUROS PROJETOS 
+- ✨ CURSANDO ENGENHARIA DE SOFTWARE
 
 <div align="center">
   <a href="https://github.com/9893j">
