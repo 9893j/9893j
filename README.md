@@ -1,8 +1,8 @@
-## Olá Pessoal sou o João  😊
-- ✨ESTUDANDO PROGRAMAÇÃO 
-- ✨APRENDENDO  PYTHON
-- ✨FUTUROS PROJETOS 
-- ✨ CURSANDO ENGENHARIA DE SOFTWARE
+## Sou o João Pedro seja bem vindo ![image](https://user-images.githubusercontent.com/97186923/166617979-c6c824f9-958d-4387-8ac1-de1332564a38.png)
+
+- ✨ PROGRAMAÇÃO 
+- ✨ Rumo full stack 
+- ✨ CURSANDO ENGENHARIA DE SOFTWARE - IESB
 
 <div align="center">
   <a href="https://github.com/9893j">
