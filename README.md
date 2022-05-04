@@ -1,4 +1,4 @@
-## Sou o João Pedro seja bem vindo ![image](![image](https://user-images.githubusercontent.com/97186923/166618059-afbcfb59-b293-41fe-8e5d-57de46a298e9.png)
+## Sou o João Pedro seja bem vindo ![image](https://user-images.githubusercontent.com/97186923/166618059-afbcfb59-b293-41fe-8e5d-57de46a298e9.png)
 
 - ✨ PROGRAMAÇÃO 
 - ✨ Rumo full stack 
