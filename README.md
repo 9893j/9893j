@@ -32,6 +32,6 @@
 </div>
   
     <div align="center">
-      <img height="180em" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
+      <img src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
     </div>
   
