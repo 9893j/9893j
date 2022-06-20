@@ -2,7 +2,10 @@
 
 - ✨ PROGRAMAÇÃO 
 - ✨ Rumo full stack                                                                                 
-- ✨ CURSANDO ENGENHARIA DE SOFTWARE - IESB                                                                                                                                                                                                                         ![image](https://c.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif)
+- ✨ CURSANDO ENGENHARIA DE SOFTWARE - IESB                                 
+- 
+-                                                                                                                                                                                         
+-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         !!![image](https://c.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif)
 
                                                                                   
 
