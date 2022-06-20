@@ -32,7 +32,6 @@
 </div>
   
     <div align="center">
-  <a href="https://github.com/9893j">
-  <img height="180em" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
+      <img height="180em" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
     </div>
   
