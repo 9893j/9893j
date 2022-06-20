@@ -5,7 +5,7 @@
 - ✨ CURSANDO ENGENHARIA DE SOFTWARE - IESB                                                                              
                                                                        
 <h4>
-  <img align="right" width="80" src="https://tenor.com/view/bahroo-hacker-panda-hacking-cool-gif-15741061">
+  <img align="right" width="80" src="https://tenor.com/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062">
 
 <div align="center">
   <a href="https://github.com/9893j">
