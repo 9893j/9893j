@@ -4,8 +4,6 @@
 - ✨ Rumo full stack                                                                 
 - ✨ CURSANDO ENGENHARIA DE SOFTWARE - IESB                                                                              
                                                                        
-<h4>
-  <img align="right" width="80" src="https://tenor.com/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062">
 
 <div align="center">
   <a href="https://github.com/9893j">
@@ -33,8 +31,8 @@
 ##
 </div>
   
-  <div align="center">
+    <div align="center">
   <a href="https://github.com/9893j">
-  <img height="180em" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429"/>
+  <img height="180em" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
     </div>
   
