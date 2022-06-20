@@ -1,10 +1,20 @@
-## Sou o João Pedro seja bem vindo  <img align="right" width="100" src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif">    
+## Sou o João Pedro seja bem vindo  <img align="right" width="100" src="https://media.giphy.com/media/HZS1Ooyf589Q1V9g4D/giphy.gif">    
 - ✨ PROGRAMAÇÃO                                             
 - ✨ Rumo full stack         
-- ✨ CURSANDO ENGENHARIA DE SOFTWARE - IESB                                                                              
+- ✨ CURSANDO ENGENHARIA DE SOFTWARE - IESB
+
+
+##                                                                           
                                                                        
+<div align="center" > 
+
+<img align="leaft" alt="Gif" height="300" width="800" style="border-radius:50px;"  src="https://media.giphy.com/media/zlcIBNopQj8Yx5QgpR/giphy.gif">
+
+</div>
+<hr>
 
 
+##
   <div align="center">
     <a href="https://github.com/9893j">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=9893j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -26,6 +36,6 @@
     <img align="center" alt="JoaoPedro-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="50"/> 
 </div>
 
-  <h4> <img float="right" width="100" src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif"> </h4>         
+      
   
  
