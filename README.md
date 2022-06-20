@@ -7,7 +7,7 @@
 <h4>
 <img align="right" width="80" src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif">                                                                          
 <h4>
-  <div class="tenor-gif-embed" data-postid="15741061" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bahroo-hacker-panda-hacking-cool-gif-15741061">Bahroo Hacker Sticker</a>from <a href="https://tenor.com/search/bahroo-stickers">Bahroo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img align="right" width="80" src="https://tenor.com/view/bahroo-hacker-panda-hacking-cool-gif-15741061"
 
 <div align="center">
   <a href="https://github.com/9893j">
