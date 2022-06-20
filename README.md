@@ -1,8 +1,10 @@
 ## Sou o João Pedro seja bem vindo ![image](https://user-images.githubusercontent.com/97186923/166618059-afbcfb59-b293-41fe-8e5d-57de46a298e9.png)
 
 - ✨ PROGRAMAÇÃO 
-- ✨ Rumo full stack                                                                                 ![image](https://c.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif)
-- ✨ CURSANDO ENGENHARIA DE SOFTWARE - IESB
+- ✨ Rumo full stack                                                                                 
+- ✨ CURSANDO ENGENHARIA DE SOFTWARE - IESB                                                                                                                                                                                                                         ![image](https://c.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif)
+
+                                                                                  
 
 <div align="center">
   <a href="https://github.com/9893j">
