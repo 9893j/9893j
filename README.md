@@ -1,7 +1,6 @@
-## Seja bem vindo <img align="right" width="150" src="https://media.giphy.com/media/MnsexCJPlaPHgpDlHI/giphy.gif">    
+## Seja bem vindo  DEVS <img align="right" width="150" src="https://media.giphy.com/media/MnsexCJPlaPHgpDlHI/giphy.gif">    
 ##
-##Sou o joão pedro
-- ✨ ESTUDOS EM PROGRAMAÇÃO                                             
+##Sou o joão pedro                                            
 - ✨ OBJETIVO: full stack         
 - ✨ CURSANDO ENGENHARIA DE SOFTWARE - IESB
 
