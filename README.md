@@ -1,8 +1,9 @@
 ## Seja bem vindo  DEVS <img align="right" width="150" src="https://media.giphy.com/media/MnsexCJPlaPHgpDlHI/giphy.gif">    
 ##
-##Sou o joão pedro                                            
-- ✨ Front-End         
+##Prazer Sou o joão pedro     
+
 - ✨ CURSANDO ENGENHARIA DE SOFTWARE - IESB
+- ✨ CURSO DANKI-CODE - FULL STACK
  
 <hr>
 
