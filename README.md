@@ -1,9 +1,9 @@
-## Seja bem vindo  DEVS <img align="right" width="150" src="https://media.giphy.com/media/MnsexCJPlaPHgpDlHI/giphy.gif">    
-##
-##Prazer Sou o joão pedro     
+## Seja bem vindo <img align="right" width="150" src="https://media.giphy.com/media/MnsexCJPlaPHgpDlHI/giphy.gif">    
+Prazer, Sou o joão pedro :)   
 
 - ✨ CURSANDO ENGENHARIA DE SOFTWARE - IESB
-- ✨ CURSO DANKI-CODE - FULL STACK
+- <img height="26px" align="center" src="https://icongr.am/octicons/cpu.svg?size=30&color=currentColor"/>  Suporte em TI
+-  <img height="26px" align="center" src="https://icongr.am/octicons/code.svg?size=30&color=currentColor"/>  Front-End
  
 <hr>
 
@@ -19,7 +19,6 @@
  
   <div style="display: inline_block" align="center"><br>   
     <img align="center" alt="JoaoPedro-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30"/>
-    <img align="center" alt="JoaoPedro-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="50"/> 
     <img align="center" alt="JoaoPedro-VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="30" />
     <img align="center" alt="JoaoPedro-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30" />
     <img align="center" alt="JoaoPedro-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30" />
