@@ -2,7 +2,7 @@
 Prazer, Sou o joão pedro :)   
 
 - ✨ CURSANDO ENGENHARIA DE SOFTWARE - IESB
-- <img height="26px" align="center" src="https://icongr.am/octicons/cpu.svg?size=30&color=currentColor"/>  Suporte em TI
+- <img height="26px" align="center" src="https://icongr.am/clarity/terminal.svg?size=30&color=currentColor"/>  Suporte em TI
 -  <img height="26px" align="center" src="https://icongr.am/octicons/code.svg?size=30&color=currentColor"/>  Front-End
  
 <hr>
