@@ -1,10 +1,9 @@
 ## Seja bem vindo    
 Prazer, Sou o joão pedro :)   
 
-- ✨ FOMANDO ENGENHARIA DE SOFTWARE - IESB
-- <img height="26px" align="center" src="https://icongr.am/octicons/cpu.svg?size=21&color=currentColor"/>  Suporte em TI
--  <img height="26px" align="center" src="https://icongr.am/octicons/database.svg?size=30&color=currentColor"/>  Analise de dados
--  <img heigth="26px" align="center" src="https://icongr.am/octicons/terminal.svg?size=30&color=currentColor"/> Cybersecurity
+- ✨ Cursando Engenharia de Software - IESB
+- <img height="26px" align="center" src="https://icongr.am/octicons/cpu.svg?size=21&color=currentColor"/>    Suporte em TI
+-  <img heigth="26px" align="center" src="https://icongr.am/octicons/terminal.svg?size=21&color=currentColor"/>   Desenvolvedor FullStack
  
 <hr>
 
